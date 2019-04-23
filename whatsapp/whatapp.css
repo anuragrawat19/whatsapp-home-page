@@ -1,0 +1,108 @@
+#div1{
+	background-color: #1ebea5;
+	color:white;
+	width:100%;
+	height: 100px;
+	display:flex;
+	flex-direction: row;
+}
+.ul1{
+	color:#000;
+	list-style-type: none;
+}
+li{
+	display:inline;
+	margin-right: 20px;
+}
+.img{
+	height:120px;
+	width:120px;
+	padding-left:75px;
+
+}
+.container{
+	padding-left:150px;
+	padding-top:50px;
+}
+.provider{
+	list-style-type:none;
+	
+
+}
+#wimg{
+	height:580px;
+	width:325px;
+	padding-right:550px;
+
+}
+.middle{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	padding-left:
+
+}
+.buisinessapp{
+	background-color:#39b3ed69;
+	width: 40%;
+	height:60%;
+	float:left;
+	margin: 0px;
+}
+h3{
+ text-align:center;
+}
+#scakes{
+	padding-left: 200px;
+	padding-top: 230px;
+	height:50%;
+	width:50%;
+	
+}
+.h33{
+	color:rgba(0,0,0,.5);
+	font-size:11px;
+	font-weight:500;
+	letter-spacing: .15em;
+	line-height:17px;
+	margin-bottom: 7px;
+}
+.default{
+	background-color:#39b3ed30;
+	width: 40%;
+	height:60%;
+	float:right;
+}
+.htc{
+	font-size:28px;
+
+	}
+a{
+	text-decoration: none;
+	color:inherit;
+}
+.linkfeatures {
+	font-size:25px;
+	color:#26D0C1;
+
+}
+.last{
+	background-color:;
+	width: 100%;
+}
+button{
+	border-radius: 25px;
+	border-color:#26D0C1;
+	transform:scale(1.5); 
+
+}
+.jkl{
+	padding-top: 500px;
+	margin:50px;
+	padding-left:670px;
+}
+.padclass{
+	padding-right: 300px;
+	margin:50px;
+
+}
